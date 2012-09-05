@@ -1,13 +1,13 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\devnull]
-"UseSystemColours"=dword:00000000
-"TryPalette"=dword:00000000
-"ANSIColour"=dword:00000001
-"Xterm256Colour"=dword:00000001
-"BoldAsColour"=dword:00000001
-"Colour0"="186,189,182"
-"Colour1"="238,238,236"
-"Colour2"="0,0,0"
-"Colour3"="32,33,31"
-"Colour4"="186,189,182"
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\devnull]
+"UseSystemColours"=dword:00000000
+"TryPalette"=dword:00000000
+"ANSIColour"=dword:00000001
+"Xterm256Colour"=dword:00000001
+"BoldAsColour"=dword:00000001
+"Colour0"="186,189,182"
+"Colour1"="238,238,236"
+"Colour2"="0,0,0"
+"Colour3"="32,33,31"
+"Colour4"="32,33,31"

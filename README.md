@@ -8,3 +8,4 @@ The session the color schemes apply to is named "devnull", you can change this n
 
 base.reg: Backround-, foreground- and cursor-colors, nice to work with all of the color schemes
 
+All other \*.reg files are colors only.

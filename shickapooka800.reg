@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\devnull]
+"Colour7"="117,117,117"
+"Colour8"="234,104,104"
+"Colour9"="255,114,114"
+"Colour10"="171,203,141"
+"Colour11"="175,215,138"
+"Colour12"="232,174,91"
+"Colour13"="255,167,93"
+"Colour14"="113,197,244"
+"Colour15"="103,205,233"
+"Colour16"="226,186,241"
+"Colour17"="236,174,233"
+"Colour18"="33,241,234"
+"Colour19"="54,255,252"
+"Colour20"="241,241,241"
+"Colour21"="255,255,255"
+
